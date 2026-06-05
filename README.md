@@ -36,7 +36,7 @@ Feel free to submit pull requests with enhancements that you believe will improv
 
 ## Direct Link
 
-https://rajnandiniini.github.io/My-Portfolio/
+https://rajnyandini.github.io/My-Portfolio/
 
 
 
